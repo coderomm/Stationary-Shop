@@ -7,7 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E)
 ![jQuery](https://img.shields.io/badge/jQuery-3-0769AD)
 
-Welcome to the Stationary Shopy web design project! This project was meticulously crafted by Coderom to provide a seamless user experience, utilizing HTML, CSS3, Bootstrap 4, JavaScript, and jQuery. It's fully responsive and ready to shine on all devices. My main goal is ensuring a fully responsive, user-friendly, and visually appealing experience. Explore the world of life insurance services and products with our modern and interactive website. 🚀
+Welcome to the Stationary Shop web design project! This project was meticulously crafted by Coderom to provide a seamless user experience, utilizing HTML, CSS3, Bootstrap 4, JavaScript, and jQuery. It's fully responsive and ready to shine on all devices. My main goal is ensuring a fully responsive, user-friendly, and visually appealing experience. Explore the world of life insurance services and products with our modern and interactive website. 🚀
 
 ## Project Overview 🚀
 
