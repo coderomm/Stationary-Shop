@@ -1,4 +1,4 @@
-# Stationary Shopy Web Design Project 🌐
+# Stationary Shopy Website Template 🌐
 
 ![Responsive Design](https://img.shields.io/badge/Responsive-Yes-4BC51D)
 ![HTML](https://img.shields.io/badge/HTML-5-E34F26)
